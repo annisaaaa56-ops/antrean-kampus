@@ -29,3 +29,4 @@ Layanan Antrean Kampus adalah aplikasi web untuk mengelola antrean layanan kampu
 4. Setiap anggota wajib melakukan pull request dan menunggu review dari ketua sebelum merge.
 5. Dilarang menghapus file milik anggota lain tanpa diskusi terlebih dahulu.
 6. Semua komunikasi dan pembagian tugas dilakukan melalui grup tim.
+- Terverifikasi clone & akses Git oleh Rizki Faulina Wati (240131109)
