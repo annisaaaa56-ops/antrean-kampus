@@ -6,7 +6,7 @@ Layanan Antrean Kampus adalah aplikasi web untuk mengelola antrean layanan kampu
 
 | Nama | NIM | GitHub | Peran |
 | --- | --- | --- | --- |
-| Anisa | 240131139 | annisaaaa56-ops | Ketua |
+| Anisa(Ketua Tim) | 240131139 | annisaaaa56-ops | Ketua |
 | Akhmad Yuda Prawira | 240131009 | PoligonxmS12 | Anggota |
 | Dessy Adellia | 240131017 | dessyadell043-del | Anggota |
 | Emilda Sari | 240131144 | emildasari7124-oss | Anggota |
