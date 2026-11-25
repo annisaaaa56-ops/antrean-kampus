@@ -32,3 +32,4 @@ Layanan Antrean Kampus adalah aplikasi web untuk mengelola antrean layanan kampu
 - Terverifikasi clone & akses Git oleh Rizki Faulina Wati (240131109)
 - Terverifikasi clone & akses Git oleh Dessy Adellia (240131017)
 - Terverifikasi clone & akses Git oleh Emilda Sari (240131144)
+- Terverifikasi clone & akses Git oleh Akhmad Yuda Prawira (240131009)
