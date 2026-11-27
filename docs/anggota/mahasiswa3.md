@@ -2,3 +2,4 @@
 Nama: Rizki Faulina Wati
 Peran: Anggota
 Hal yang ingin dipelajari: Git branching dan kolaborasi DevOps.
+Strategi percabangan tim kami adalah Github Flow.
